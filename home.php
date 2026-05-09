@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="h.css">
+    <link rel="stylesheet" href="home.css">
 </head>
 <body>
     <header class="site-header">
@@ -195,7 +195,7 @@
         <p>© <span id="year"></span> AI Travel Agent. Built for smarter travel planning.</p>
     </footer>
 
-    <script src="h.js"></script>
+    <script src="home.js"></script>
 </body>
 </html>
 
