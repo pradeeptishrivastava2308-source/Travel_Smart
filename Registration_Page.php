@@ -252,7 +252,7 @@ if(isset($_POST["submit"]))
 
       <div class="links">
         <a href="login.php">Already have an account? Login</a>
-        <a href="h.php">Return to Home Page</a>
+        <a href="home.php">Return to Home Page</a>
       </div>
       </form>
     </div>
