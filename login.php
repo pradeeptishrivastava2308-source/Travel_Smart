@@ -191,7 +191,7 @@
       <div class="links">
         <a href="#">Forgot Password?</a>
         <a href="Registration_Page.php">Don't have an account? Sign up</a>
-        <a href="h.php">Return to Home Page</a>
+        <a href="home.php">Return to Home Page</a>
       </div>
 </form>
     </div>
